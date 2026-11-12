@@ -1,0 +1,16 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Next.js build output
+out/
+build/
+dist/
+
+# Local build logs and metadata
+metadata.json
+build_output_export.txt
